@@ -9,7 +9,4 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="../SimpleApp/SimpleApp.csproj" />
-  </ItemGroup>
 </Project>
